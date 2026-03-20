@@ -1,6 +1,6 @@
 ### Olá, Eu sou Ulisses Borges 👋🏽
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisses-borges-4a79b12a6/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.borgess_/)
+[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.borgess__/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351969330246?text=Ol%C3%A1!%20Estou%20interessado%20em%20conversar%20sobre%20oportunidades%20de%20trabalho%20ou%20est%C3%A1gio.%20Podemos%20discutir%20mais%20detalhes?)
 
 
